@@ -28,7 +28,7 @@
         <li>AWS для деплою моделей<br><br></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <div align="center">
         <img src="https://wallpaper.forfun.com/fetch/ea/ea0a075cfcf348afb140d53a39d7ad17.jpeg" alt="Profile Image" width="100%" />
         <br/>
