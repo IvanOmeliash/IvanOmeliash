@@ -8,7 +8,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>Trainee / Junior ML Engineer</h3>
+      <h3>ML Engineer</h3>
       <pre><code>{
   "role": "Machine Learning Engineer",
   "location": "Lviv, Ukraine",
