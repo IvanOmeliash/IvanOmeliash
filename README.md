@@ -29,9 +29,11 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <img src="https://wallpaper.forfun.com/fetch/ea/ea0a075cfcf348afb140d53a39d7ad17.jpeg" alt="Profile Image" width="100%" />
-      <br/>
-      <p align="center"><i>"Teaching a machine to read and see is where code ends and philosophy begins."</i></p>
+      <div align="center">
+        <img src="https://wallpaper.forfun.com/fetch/ea/ea0a075cfcf348afb140d53a39d7ad17.jpeg" alt="Profile Image" width="100%" />
+        <br/>
+        <p align="center"><i>"Teaching a machine to read and see is where code ends and philosophy begins."</i></p>
+      </div>
     </td>
   </tr>
 </table>
