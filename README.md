@@ -7,7 +7,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>ML Engineer</h3>
       <pre><code>{
   "role": "Machine Learning Engineer",
@@ -18,17 +18,17 @@
 }</code></pre>
       <p><strong>Technical Stack:</strong></p>
       <ul>
-        <li>Deep Learning &amp; Machine Learning algorithms</li>
-        <li>Computer Vision (YOLO, TrOCR) &amp; NLP (Transformers, LSTM)</li>
-        <li>Досвід побудови Frontend та роботи з AR/VR</li>
+        <li>Deep Learning &amp; Machine Learning algorithms<br><br></li>
+        <li>Computer Vision (YOLO, TrOCR) &amp; NLP (Transformers, LSTM)<br><br></li>
+        <li>Досвід побудови Frontend та роботи з AR/VR<br><br></li>
       </ul>
       <p><strong>Development Tools:</strong></p>
       <ul>
-        <li>Docker для контейнеризації</li>
-        <li>AWS для деплою моделей</li>
+        <li>Docker для контейнеризації<br><br></li>
+        <li>AWS для деплою моделей<br><br></li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://wallpaper.forfun.com/fetch/ea/ea0a075cfcf348afb140d53a39d7ad17.jpeg" alt="Profile Image" width="100%" />
       <br/>
       <p align="center"><i>"Teaching a machine to read and see is where code ends and philosophy begins."</i></p>
