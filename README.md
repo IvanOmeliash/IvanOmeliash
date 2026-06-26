@@ -20,12 +20,12 @@
       <ul>
         <li>Deep Learning &amp; Machine Learning algorithms<br><br></li>
         <li>Computer Vision (YOLO, TrOCR) &amp; NLP (Transformers, LSTM)<br><br></li>
-        <li>Досвід побудови Frontend та роботи з AR/VR<br><br></li>
+        <li>Experience with Frontend and AR/VR<br><br></li>
       </ul>
       <p><strong>Development Tools:</strong></p>
       <ul>
-        <li>Docker для контейнеризації<br><br></li>
-        <li>AWS для деплою моделей<br><br></li>
+        <li>Docker, Kubernetis<br><br></li>
+        <li>AWS for deploying models<br><br></li>
       </ul>
     </td>
     <td width="50%" valign="center">
